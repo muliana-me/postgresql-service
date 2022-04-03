@@ -1,5 +1,5 @@
 # Switch PostgreSQL Service
-PostgreSQL service is quite heavy, can cause slowing down your system especially when boot up, with this script you can switch the service status to activate or inactive.
+PostgreSQL service is quite heavy, can cause slowing down your system especially when boot up. With this script you can easily switch the service status to inactive when you dont need it or activate it when you need.
 
 
 ## Requirements
